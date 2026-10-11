@@ -4,6 +4,8 @@ Estimate the cost of an LLM-driven large-codebase port before committing a budge
 
 Data currency: **as of 2026-10-11**.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Teams either refuse large ports outright (fear of six-figure LLM bills) or start them blind and stall at 60% with the budget gone. The only public anchor points are two experiments on the *same* port target — the TypeScript compiler (tsc) ported to Rust:
